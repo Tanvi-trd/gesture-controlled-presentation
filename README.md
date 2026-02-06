@@ -17,6 +17,7 @@ This project is a Python-based computer vision application that allows users to 
 - NumPy
 
 ->>How It Works
+
 The system captures live video from the webcam and detects hand landmarks using MediaPipe. Specific hand gestures are recognized based on finger count, and corresponding keyboard actions are triggered using PyAutoGUI to control the presentation.
 
 ->>Gesture Controls
