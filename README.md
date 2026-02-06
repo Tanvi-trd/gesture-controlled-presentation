@@ -35,17 +35,6 @@ The system captures live video from the webcam and detects hand landmarks using 
    python gesture_presentation.py
 5. Show gestures in front of the webcam
 
-->> Applications
-- Touchless presentations
-- Smart classrooms
-- Assistive technology
-- Interactive demonstrations
-
-->> Future Enhancements
-- Swipe-based gesture detection
-- Voice feedback
-- Support for PDF and video players
-- Improved gesture accuracy
-
 Author
+
 Tanvi RD
